@@ -15,8 +15,10 @@ Born from **15 years of bodybuilding experience**, PeakDiet is the "Nutrition Ar
 - *If it's useful for me, it's a tool. If it's useful for you, it's a bonus.*
 
 ### 📊 GitHub Stats
-![DgenKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=DgenKing&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgenKing&layout=compact&theme=dark)
+
+![DgenKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=DgenKing&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgenKing&layout=compact&theme=dark&hide_border=true)
 
 ### 📬 Connect & Trade
 - **Twitter:** [@DgenKing63330](https://twitter.com/DgenKing63330) (Crypto & Coding)
