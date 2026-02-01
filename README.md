@@ -1,16 +1,23 @@
 # Hi there, I'm DgenKing 👋
 
-### 🛠️ From Carpentry to AI Architecture
-I'm a self-taught "Vibe Coder" building high-performance web applications. I believe in treating code like craft—structured, durable, and aesthetically sharp.
+### 🏗️ From Carpentry to AI Architecture
+I'm a self-taught **"Vibe Coder"** transitioning from 30+ years of high-end carpentry to software development. I treat code like a craft—structured, durable, and built to last.
 
-- 🚀 **Current Project:** [PeakDiet](https://peak-diet.vercel.app/) — AI-powered nutrition architecture.
-- 🧠 **Tech Stack:** React 19, Tailwind 4, Neon DB, Vercel, & Claude/Gemini.
-- 🏗️ **Mindset:** Obsessive problem solver. If I don't understand it, I don't stop until I do.
+### 🧠 The Learning Journey
+I'm currently working through **The Odin Project** to master the core principles of programming. While I heavily rely on **Claude Code** and **Gemini** to accelerate my builds, I’m dedicated to understanding the "why" behind every line of code.
+- 🛠️ **Building:** Web Apps, PWAs, and anything that solves a real problem.
+- 📈 **Experience:** I've built many apps; some were rough, but each one taught me how to make the next one better.
+
+### 🚀 Current Project: [PeakDiet](https://peak-diet.vercel.app/)
+Born from **15 years of bodybuilding experience**, PeakDiet is the "Nutrition Architecture" app I built for myself. 
+- It balances macros, adjusts portion sizes automatically, and manages burnout. 
+- Built with **React 19, Tailwind 4, Neon DB, and Vercel.**
+- *If it's useful for me, it's a tool. If it's useful for you, it's a bonus.*
 
 ### 📊 GitHub Stats
 ![DgenKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=DgenKing&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgenKing&layout=compact&theme=dark)
 
-### 📬 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@DgenKing63330
-)
+### 📬 Connect & Trade
+- **Twitter:** [@DgenKing63330](https://twitter.com/DgenKing63330) (Crypto & Coding)
+  
