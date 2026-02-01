@@ -28,9 +28,12 @@ Born from **15 years of bodybuilding experience**, PeakDiet is the "Nutrition Ar
 **Infrastructure:** Docker, Linux/Ubuntu, Git  
 **Other:** Conversational AI, Real-time APIs, PWAs
 
-### 📊 GitHub Stats
-![DgenKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=DgenKing&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgenKing&layout=compact&theme=dark)
+### 📂 Featured Projects
+- **[peak-diet](https://github.com/DgenKing/peak-diet)** – React 19, Tailwind 4, Neon DB. Nutrition planning with real-time macro adjustment.
+- **[UK-OVERWATCH](https://github.com/DgenKing/UK-OVERWATCH)** – TypeScript. Monitoring and oversight automation.
+- **[burnoutShield](https://github.com/DgenKing/burnoutShield)** – TypeScript. Burnout detection and management.
+- **[ping](https://github.com/DgenKing/ping)** – TypeScript. Lightweight health check tool.
+- **[odinProject](https://github.com/DgenKing/odinProject)** – The Odin Project coursework and exercises.
 
 ### 📬 Connect & Trade
 - **Twitter:** [@DgenKing63330](https://twitter.com/DgenKing63330) (Crypto & Coding)
